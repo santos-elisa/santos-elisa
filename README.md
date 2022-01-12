@@ -14,8 +14,4 @@ I spent 2021 getting an overview of Data Science. Yes, an overview! 😁
 
 Now it’s time to transform this knowledge into a portfolio. 🚀
 
-##
-
-<div
-  <a href="https://www.linkedin.com/in/santos-elisa" target-"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target-"_blank"></a>
-</div>
+You can learn more about my background in my [Linkedin](https://www.linkedin.com/in/santos-elisa) profile.
