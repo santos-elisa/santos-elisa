@@ -1,7 +1,4 @@
-**About me**
+Welcome to my Github portfolio!
 
-In 2020, [Defined.ai](https://www.defined.ai/) offered me a position as a Linguist on an AI project. When I started to work for the company, I realized that I wanted to learn more about technology. 
+I am excited to share my projects and experience with you. Through my portfolio, you'll get a glimpse into my skills, expertise, and passion for technology. Take a look around and explore my projects. If you want to learn more about my background, you can also check out my [Linkedin](https://www.linkedin.com/in/santos-elisa) profile. If you have any questions or feedback, feel free to reach out. Thanks for visiting! 👩‍💻
 
-It was the beginning of a new learning journey. 🚀
-
-You can learn more about my background in my [Linkedin](https://www.linkedin.com/in/santos-elisa) profile.
